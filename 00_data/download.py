@@ -19,7 +19,7 @@ fzb_base_url = 'http://api.xueqiu.com/stock/f10/balsheet.csv?page=1&size=10000&s
 
 headers = {
     'User-Agent': 'Mozilla/5.0',
-    'Cookie': 'xq_a_token=4c6af5a6a2c8e7862e51b7761695e6e88e768a3'
+    'Cookie': 'xq_a_token=82d9cefaa0793743cb186e53294ec0e61ac2abec'
 }
 
 
